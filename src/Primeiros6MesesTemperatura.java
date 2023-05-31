@@ -64,6 +64,3 @@ public class Primeiros6MesesTemperatura {
         }
     }
 }
-
-
-
